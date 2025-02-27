@@ -1,2 +1,16 @@
-# Fantasy-Cricket-INDvSL
-This repository contains a fantasy team selection and optimization model for the IND vs SL 3-match T20 series. It uses Python and PuLP to maximize team performance within constraints like credits, team composition, and player selection. The notebook includes team points analysis and average points per match.
+# Fantasy Team Selection for IND vs SL T20 Series  
+
+## 📌 Project Overview  
+This project focuses on optimizing fantasy cricket team selection for the **India vs Sri Lanka 3-match T20 series**. Using **Python and PuLP**, we maximize the team's performance while adhering to constraints such as player credits, team composition, and selection limits.  
+
+## 📊 Features  
+- **Optimized team selection** based on player selection percentage and constraints.  
+- **Three different fantasy teams** generated using linear programming.  
+- **Points analysis** comparing India and Sri Lanka.  
+- **Average points per team** for better evaluation.  
+
+## ⚙️ Setup Instructions  
+1. **Clone the Repository**  
+   ```bash
+   git clone https:
+   cd Fantasy-Cricket-INDvSL
